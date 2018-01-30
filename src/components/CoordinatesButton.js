@@ -10,3 +10,5 @@ class CoordinatesButton extends Component {
     );
   }
 }
+
+export default CoordinatesButton;
